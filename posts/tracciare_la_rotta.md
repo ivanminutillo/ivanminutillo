@@ -1,27 +1,113 @@
 ---
 title: Bruno Latour - Tracciare la rotta
-description: This is a post on My Blog about agile frameworks.
+description: Sinossi di Tracciare la rotta - Come orientarsi in politica di Bruno Latour
 date: 2018-05-01
 tags:
   - latour
-  - libro
+  - sinossi
 layout: layouts/post.njk
 ---
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+Più che un'analisi politica dello scenario contemporaneo, il libro "Tracciare la rotta" di Latour è un bellissimo lavoro autopoietico e generativo: un cercare di abitare la casa mentre la si costruisce mattone dopo mattone, disegnare la mappa mentre la si consulta o - per restare in tema con il libro - cercare di abitare un territorio, mentre se ne delimita confini, dipendenze e alleanze.
 
-## Section Header
+## L'utopia è già al potere
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
+Facendo leva su eventi particolari, che hanno segnato in modo più o meno significativo la vita politica ed economica planetaria degli ultimi dieci anni, Latour scardina convinzioni e rappresentazioni che hanno identificato l'occidente e lo hanno guidato sempre più vicino al baratro.
 
-``` text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
+La Brexit, l'elezione di Trump alla casa bianca, l'ampliamento della crisi migratoria, l'accordo sul clima al termine della conferenza COP21 e la conseguente uscita dall'accordo dell'America - sono i "fatti" scelti da Latour per farla finita con un mondo che non solo non mantiene più quello che promette, ma che ha smesso anche di promettere.
 
-// Test with a line break above this line.
-console.log('Test');
-```
+L'evento spartiacque - la conclusione della conferenza sul clima COP21 nel 2015 - ha sancito, seppure tra i plausi per l'accordo ottenuto tra i paesi firmatari, l'amara verità che non esisteva più una terra abbastanza grande da poter abbracciare le aspettative di sviluppo e modernizzazione sbandierate dall'occidente.
+I firmatari concordano che lo sviluppo industriale coincide ed e' concausa dell' aumento delle temperature, dello scioglimento dei ghiacciai e delle metamorfosi geologiche. Le esternalità hanno incrinato l'equilibro del pianeta in modi che viviamo sempre più direttamente sulla nostra stessa pelle.
+
+Insomma, lo sfruttamento delle risorse imposto dalla modernità per continuare la sua opera di autopotenziamento a meta indeterminata, collide con la possibilità di un concreto proseguimento della vita umana sulla terra.
+
+L'elefante è finalmente entrato nella stanza, e non proprio in punta di piedi!
+
+Su queste premesse, Latour costruisce la sua ipotesi scandalosa: il popolo è stato "tradito a freddo" da quella classe dirigenziale che ha abbandonato l'idea di realizzare davvero la modernizzazione del pianeta con tutti, perche ha saputo, prima degli altri, che era una cosa impossible - proprio per la mancanza di un pianeta abbastanza grande da contenere i loro sogni di crescita per tutti.
+
+Una consapevolezza che non ha portato però ad un'uscita di scena dei principali fautori della modernità a tutti i costi (in modalità prepper), ma bensì ad una furibonda campagna di negazionismo climatico portata avanti dagli stessi, volta ad offuscare ogni elemento che potesse smuovere cittadini e nazioni ad invertire la rotta.
+
+Un episodio su tutti, la compagnia Exxon Mobil, agli inizi degli anni 90, con piena cognizione di causa, dopo aver pubblicato eccellenti articoli scientifici sui pericoli del cambiamento climatico, prende la decisione di investire massicciamente nell'estrazione frenetica del petrolio e contemporaneamente nella campagna, altrettanto frenetica, a sostegno dell'inesistenza della minaccia.
+
+Se l'ipotesi di Latour è corretta, ci troviamo a confrontarci con un unico fenomeno: le èlite si sono talmente convinte che non ci sarebbe stata vita futura per tutti che hanno deciso di "sbarazzarsi il prima possibile di tutti i fardelli della solidarietà".
+
+Quello che a partire dagli anni Ottanta, ha preso il nome di "deregulation" o "smantellamento dello Stato sociale", non va visto come un movimento isolato, ma bensì collegato con altri fenomeni che hanno plasmato il tessuto politico e sociale degli ultimi 40 anni, come il "negazionismo climatico" degli anni Duemila, l'aumento vertiginoso delle disuguaglianze, l'aumento esponenziale del populismo e degli estremismi in tutto il mondo.
+
+## Dove atterrare?
+
+Il progresso è una chimera, non perseguibile per palesi e assodati limiti naturali - se non promuovendo escatologie surreali (come il voler terraformare nuovi pianeti, o unire la nostra mente e il nostro corpo con intelligenze artificiali e protesi robotiche).
+Tutte soluzioni, come spiega anche U. Galimberti, dalla forte matrice cristiana, che prevedono una salvezza, un paradiso puro e quindi privo di tutti i limiti e inefficienze umane.
+
+A questo tipo di soluzioni, il libro oppone un voler restare a contatto con il problema ("Staying with the Trouble" - Donna Haraway 2016), un voler affinare le arti di vivere in un pianeta danneggiato ("Arts of living on a damaged Planet" - Anna Tsing 2017).
+
+Quello che propone Latour, è un atto concreto di abbandono di ogni forma di utopia o sistema di pensiero che non offre più risposte ai problemi odierni, volto piuttosto a trovare nuove rotte per imparare a vivere e generare nelle rovine del capitalismo.
+
+Dobbiamo toccare terra, trovare nuovi mondi da abitare, ma - ci avverte Latour - non con la stessa mentalità degli esploratori muniti di bibbia e casco coloniale, bensì consci che i territori sono da sempre abitati, e adattarsi vuol dire vivere con, non a scapito di.
+
+Sarà fondamentale inventarci alleanze, sia con i moderni che con i tradizionalisti, con il globale e con il locale, con persone di destra e di sinistra. Perchè tutte queste polarizzazioni altro non sono che oscillazioni tra sistemi di organizzare e trasformare il mondo ormai inefficienti.
+
+Sia il continuare a illudersi di perseguire ideali progressisti, che il volersi affidare a idee reazionarie e fondate sul culto delle tradizioni - come chiudersi nei propri confini (geografici, morali o religiosi che siano) - non offrono nessun tipo di soluzione a problemi contingenti come il cambiamento climatico e l'espansione dei flussi migratori.
+
+Ci serve un nuovo attrattore, che possa creare un nuovo spazio, che aiuti a ridefinire concetti e immagini, che faciliti nuove associazioni e alleanze: che permetta "l'analisi concreta della situazione concreta", citando Lenin.
+
+Latour chiama questo nuovo attrattore: il Terrestre.
+
+## Il Terrestre
+
+Dice Latour: "Si parla sempre di geopolitica come se il prefisso geo indicasse solo la *cornice* all'interno della quale si sviluppa l'azione politica. Ora, ciò che sta cambiando è che geo indica un agente che partecipa adesso a pieno titolo alla vita pubblica".
+
+La parola "Terrestre" dunque, rappresenta sia il territorio da abitare che gli attori che lo abitano, tra cui noi, senza per di più specificarne il genere. Un modo elegante quanto pratico per farla finita con 2000 anni di separazione uomo/natura a matrice cristiana prima e scientifico - cartesiana poi.
+
+Ma come si pone il Terrestre di fronte alle forme di polarizzazioni vigenti? il Terrestre è globale o locale? È di destra o di sinistra?
+
+Definendosi come **nuovo** attrattore, l'obiettivo del Terrestre è quello di scardinare l'attuale polarizzazione.
+
+Il Terrestre non è locale: se quest'ultimo è fatto per differenziarsi chiudendosi - dice Latour - il Terrestre si differenzia aprendosi.
+Ma questa apertura non fa di certo del Terrestre un globale, fautore di una globalizzazione-univoca del mondo e di una visione volta a considerare come risorsa ogni ente che si frappone tra lui ed il profitto (rendendo vana e antiquata anche la morale kantiana "agisci in modo da trattare l'uomo sempre anche come fine, non mai solo come mezzo.").
+
+Il Terrestre non è di destra, poichè in contrapposizione netta con la sua attitudine politica neo-liberale e la sua fede nel mercato libero.
+Ma non è di sinistra e del suo modo di restringere troppo il campo nel descrivere la questione sociale.
+
+Latour ci suggeresce una nuova polarizzazione, più utile a uscire dall'empasse destra/sinistra e sopratutto più utile ad affrontare le complessità politiche, economiche e sociali del nostro tempo: **"siamo Moderni o terrestri?"**
+
+## La questione della scienza
+
+La questione della scienza, per il Terrestre, è di fondamentale importanza. Senza il contributo della scienza sapremmo ben poco del "Nuovo regime climatico" (come definito da Latour), e non è un caso se la scienza sia diventata uno dei bersagli preferiti dei negazionisti del clima e delle fake news.
+
+Una delle partite più importanti del Terrestre infatti, è capire come fare a comprendere la scienza.
+"Se si da per buona l'epistemologia corrente ci si ritroverà prigionieri di una concezione della "natura" impossibile da politicizzare perchè inventata proprio per limitare l'azione umana in nome delle leggi indiscutibili della natura oggettiva."
+
+Abbiamo bisogno di contare su *tutto il potere della scienza*, ma *senza l'ideologia della "natura"* che le è stata appiccicata. Dobbiamo essere materialisti e razionali ma applicando queste virtù al terreno giusto. Promuovere ed esercitare una scienza che non consideri il soggetto delle sue ricerche come qualcosa di freddo, separato dal resto del mondo, puramente meccanicistico, come se fosse esterno al mondo sociale e indifferente alle cure degli umani.
+
+La differenza e la complessità - dice l'autore - sta nel fatto che il Terrestre non è il Globale. È impossibile essere materialisti e razionali nello stesso modo su entrambi.
+
+- Come considerare "**realista**" un progetto che per secoli ha evitato di considerare gli efetti e le reazioni del sistema alle azioni umane?
+- Come considerare "**oggettive**" teorie economiche incapaci di rendere conto della scarsità di risorse il cui esaurimento era scontato prevedere?
+- Come parlare di "**efficacia**" a proposito di sistemi tecnici che non sono stati in grado di pianificare al di là di un orizzonte di pochi decenni?
+- Come definire "**razionalista**" un ideale di civiltà colpevole di un errore di previsione cosi madornale da vietare ai genitori di consegnare ai propri figli un mondo abitato?
+
+La manovra essenziale, per ridare nuova linfa ed un senso positivo alle parole realismo, oggettivo, efficace, razionale, è non metterle più in relazione con il globale, dove hanno chiaramente fallito, ma al Terrestre.
+
+Per farlo, bisogna necessariamente abitare il terrestre, vivere il problema da vicino, scegliere dove atterrare, generare parentele con altri campi di studio, contaminare ricerche, provocare e restare a contatto con la complessità.
+
+È impossibile prendersi cura di un mondo o smuovere dimensioni politiche a partire dalla scienza, se ci si limita ad assumere una visione dall'alto, fredda e distaccata, esterna al mondo sociale nel quale si opera.
+
+Per rendere ancora più chiaro il concetto, Latour introduce un nuovo termine, volto ad indicare il campo primario d'azione di una scienza per il Terrestre: **la zona critica**.
+
+Prendendo in prestito il termine dalla geologia, Latour indica con zona critica quella parte di terra compresa tra poche decine di km sotto la superficie terrestre e poche decine di km all'interno della stratosfera. Quell'area dove tutte le forme di vita conosciute abitano, vivono, muoiono.
+
+Prosegue Latour: "Pochi faranno una guerra per una visione alternativa dei buchi neri o dell'inversione magnetica, ma sappiamo per esperienza che sul suolo, i vaccini, i vermi, l'orso, il lupo, i neurotrasmettitori, i funghi, la circolazione dell'acqua o la composizione dell'aria, il minimo studio si troverà presto in pieno conflitto di interpretazioni. La Zona Critica non è un'aula scolastica; la relazione con i ricercatori non ha niente di unicamente pedagogico".
+
+Questo incitamento a diventare materialisti non significa dunque ridurre il mondo ai suoi oggetti, ma **estendere la lista dei movimenti da considerare**.
+
+Ed è con questo argomento che si chiude il libro e al tempo stesso assegna i compiti a casa al lettore.
+
+Il primo compito dei Terrestri è quello di scoprire di quali altri esseri abbiamo bisogno per sopravvivere nella nostra zona critica. Un'attività che non mira a promulgare un'ideale di vita romantico (ed utopista) in armonia, empatia con gli agenti detti "naturali". Non si cerca l'accordo di tutti questi agenti insieme, **ma si impara a dipenderne**.
+Nessuna riduzione, nessuna armonia.
+Sempicemente la lista degli agenti si allunga; i loro interessi si sommano.
+
+E sarà anche grazie ad un lavoro come questo, che altri Terrestri potranno fare razionalmente loro lo slogan degli zadisti: "Noi non difendiamo la natura, noi siamo la natura che si difende".
+
+Modernisti avvisati, mezzi salvati.
+
+
