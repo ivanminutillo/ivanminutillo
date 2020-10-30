@@ -17,13 +17,13 @@ Facendo leva su eventi particolari, che hanno segnato in modo più o meno signif
 La Brexit, l'elezione di Trump alla casa bianca, l'ampliamento della crisi migratoria, l'accordo sul clima al termine della conferenza COP21 e la conseguente uscita dall'accordo dell'America - sono i "fatti" scelti da Latour per farla finita con un mondo che non solo non mantiene più quello che promette, ma che ha smesso anche di promettere.
 
 L'evento spartiacque - la conclusione della conferenza sul clima COP21 nel 2015 - ha sancito, seppure tra i plausi per l'accordo ottenuto tra i paesi firmatari, l'amara verità che non esisteva più una terra abbastanza grande da poter abbracciare le aspettative di sviluppo e modernizzazione sbandierate dall'occidente.
-I firmatari concordano che lo sviluppo industriale coincide ed e' concausa dell' aumento delle temperature, dello scioglimento dei ghiacciai e delle metamorfosi geologiche. Le esternalità hanno incrinato l'equilibro del pianeta in modi che viviamo sempre più direttamente sulla nostra stessa pelle.
+I firmatari concordano che lo sviluppo industriale coincide ed e' concausa dell' aumento delle temperature, delle imprevidibilità climatiche e delle metamorfosi geologiche. Le esternalità hanno incrinato l'equilibro del pianeta in modi che viviamo sempre più direttamente sulla nostra stessa pelle.
 
-Insomma, lo sfruttamento delle risorse imposto dalla modernità per continuare la sua opera di autopotenziamento a meta indeterminata, collide con la possibilità di un concreto proseguimento della vita umana sulla terra.
+**Insomma, lo sfruttamento delle risorse imposto dalla modernità per continuare la sua opera di autopotenziamento a meta indeterminata, collide con la possibilità di un concreto proseguimento della vita umana sulla terra.**
 
-L'elefante è finalmente entrato nella stanza, e non proprio in punta di piedi!
+L'elefante è finalmente entrato nella stanza, e non proprio in punta di piedi! 🐘🍸🍸
 
-Su queste premesse, Latour costruisce la sua ipotesi scandalosa: il popolo è stato "tradito a freddo" da quella classe dirigenziale che ha abbandonato l'idea di realizzare davvero la modernizzazione del pianeta con tutti, perche ha saputo, prima degli altri, che era una cosa impossible - proprio per la mancanza di un pianeta abbastanza grande da contenere i loro sogni di crescita per tutti.
+Su queste premesse, Latour costruisce la sua ipotesi scandalosa: il popolo è stato "tradito a freddo" da quella classe dirigenziale che ha abbandonato l'idea di realizzare davvero la modernizzazione del pianeta con tutti, perche ha saputo, prima degli altri, che era una cosa impossible - proprio per la mancanza di un pianeta abbastanza grande da contenere i loro sogni di crescita globali.
 
 Una consapevolezza che non ha portato però ad un'uscita di scena dei principali fautori della modernità a tutti i costi (in modalità prepper), ma bensì ad una furibonda campagna di negazionismo climatico portata avanti dagli stessi, volta ad offuscare ogni elemento che potesse smuovere cittadini e nazioni ad invertire la rotta.
 
@@ -90,24 +90,30 @@ La manovra essenziale, per ridare nuova linfa ed un senso positivo alle parole r
 
 Per farlo, bisogna necessariamente abitare il terrestre, vivere il problema da vicino, scegliere dove atterrare, generare parentele con altri campi di studio, contaminare ricerche, provocare e restare a contatto con la complessità.
 
-È impossibile prendersi cura di un mondo o smuovere dimensioni politiche a partire dalla scienza, se ci si limita ad assumere una visione dall'alto, fredda e distaccata, esterna al mondo sociale nel quale si opera.
-
 Per rendere ancora più chiaro il concetto, Latour introduce un nuovo termine, volto ad indicare il campo primario d'azione di una scienza per il Terrestre: **la zona critica**.
 
-Prendendo in prestito il termine dalla geologia, Latour indica con zona critica quella parte di terra compresa tra poche decine di km sotto la superficie terrestre e poche decine di km all'interno della stratosfera. Quell'area dove tutte le forme di vita conosciute abitano, vivono, muoiono.
+Prendendo in prestito il termine dalle scienze geologiche, Latour indica con zona critica quella parte di terra compresa tra poche decine di km sotto la superficie terrestre e poche decine di km all'interno della stratosfera. Quell'area dove tutte le forme di vita conosciute abitano, vivono, generano, muoiono.
 
-Prosegue Latour: "Pochi faranno una guerra per una visione alternativa dei buchi neri o dell'inversione magnetica, ma sappiamo per esperienza che sul suolo, i vaccini, i vermi, l'orso, il lupo, i neurotrasmettitori, i funghi, la circolazione dell'acqua o la composizione dell'aria, il minimo studio si troverà presto in pieno conflitto di interpretazioni. La Zona Critica non è un'aula scolastica; la relazione con i ricercatori non ha niente di unicamente pedagogico".
+Un'area che ci tocca da vicino, che sotto ogni angolo possiamo e dobbiamo studiarla, descriverla e conviverci.
 
-Questo incitamento a diventare materialisti non significa dunque ridurre il mondo ai suoi oggetti, ma **estendere la lista dei movimenti da considerare**.
+Prosegue Latour: "Pochi faranno una guerra per una visione alternativa dei buchi neri o dell'inversione magnetica, ma sappiamo per esperienza che sul suolo, i vaccini, i vermi, l'orso, il lupo, i neurotrasmettitori, i funghi, la circolazione dell'acqua o la composizione dell'aria, il minimo studio si troverà presto in pieno conflitto di interpretazioni.
+**La Zona Critica non è un'aula scolastica; la relazione con i ricercatori non ha niente di unicamente pedagogico**".
 
-Ed è con questo argomento che si chiude il libro e al tempo stesso assegna i compiti a casa al lettore.
+Ed è con questo argomento che si chiude il libro e al tempo stesso iniziano i compiti a casa per il lettore.
 
 Il primo compito dei Terrestri è quello di scoprire di quali altri esseri abbiamo bisogno per sopravvivere nella nostra zona critica. Un'attività che non mira a promulgare un'ideale di vita romantico (ed utopista) in armonia, empatia con gli agenti detti "naturali". Non si cerca l'accordo di tutti questi agenti insieme, **ma si impara a dipenderne**.
 Nessuna riduzione, nessuna armonia.
 Sempicemente la lista degli agenti si allunga; i loro interessi si sommano.
 
-E sarà anche grazie ad un lavoro come questo, che altri Terrestri potranno fare razionalmente loro lo slogan degli zadisti: "Noi non difendiamo la natura, noi siamo la natura che si difende".
+Ricominciare a guardarsi attorno, con atteggiamento scientifico, e generare alleanze multi-specie, capire da cosa siamo dipendenti e da cosa non vogliamo esserlo, farla finita di guardare il mondo come un oggetto che possiamo modificare a piacimento, scoprire le zone critiche nelle quali viviamo.
 
-Modernisti avvisati, mezzi salvati.
+Tra i tanti spunti, significanti, visioni e immagini che il libro contiene, una delle considerazioni fondamentali che il libro mi ha permesso di formulare, è il vedere l'opera e il pensiero di Latour come una possibile risposta alla profetica frase di Heidegger ne "L'abbandono" (1959):
 
+*"Ciò che è veramente inquietante non è che il mondo si trasformi in un completo dominio della tecnica. Di gran lunga più inquietante è che l'uomo non è affatto preparato a questo radicale mutamento del mondo. Di gran lunga più inquietante è che non siamo ancora capaci di raggiungere, attraverso un pensiero meditante, un confronto adeguato con ciò che sta realmente emergendo nella nostra epoca."*
 
+Il lavoro svolto da Latour nei suoi ultimi 40 anni, intrecciato a quello dei suoi amici e colleghi: Anna Tsing, Donna Haraway, Eduardo Kohn, Eduardo Viveiros de Castro, Isabelle Stengers e molti altri ancora, rimette in discussione il significato e l'azione della scienza, dell'epistemologia, del progresso, rinnovando termini e concezioni prosciugati della loro essenza per via di un sistema economico e politico asfittico e riduzionista.
+
+Che le élite si ritirino nei loro bunker, su Marte o dentro realtà virtuali, e lascino a noi Terrestri il mondo e le sue zone critiche.
+Vorra dire che faremo nostro e incarneremo nel profondo il motto zadista:
+
+> Noi non difendiamo la natura, noi siamo la natura che si difende.
